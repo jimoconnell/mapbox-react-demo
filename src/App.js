@@ -4,8 +4,8 @@ import * as parkDate from "./data/skateboard-parks.json";
 
 export default function App() {
   const [viewport, setViewport] = useState({
-    latitude: 45.4211,
-    longitude: -75.6903,
+    latitude: 41.259290,
+    longitude: -76.948530,
     width: "100vw",
     height: "100vh",
     zoom: 10
@@ -30,7 +30,7 @@ export default function App() {
       <ReactMapGL
         {...viewport}
         mapboxApiAccessToken={process.env.REACT_APP_MAPBOX_TOKEN}
-        mapStyle="mapbox://styles/leighhalliday/cjufmjn1r2kic1fl9wxg7u1l4"
+        mapStyle="mapbox://styles/jimautotrakk/cjue5nqv71yz01fn01lq0fmqt"
         onViewportChange={viewport => {
           setViewport(viewport);
         }}
@@ -48,7 +48,6 @@ export default function App() {
                 setSelectedPark(park);
               }}
             >
-              <img src="/skateboarding.svg" alt="Skate Park Icon" />
             </button>
           </Marker>
         ))}
