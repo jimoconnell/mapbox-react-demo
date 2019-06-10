@@ -1,0 +1,952 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-76.26931,42.100351]
+    },
+    "properties": {
+        "name":" Price Point Of New York"
+    }
+},
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-77.927853,42.124036]
+    },
+    "properties": {
+        "name":" Kleiser Ford"
+    }
+},
+
+
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-76.2007912,40.8065088]
+    },
+    "properties": {
+        "name":" Rinaldi Chrysler Plymouth Jeep"
+    }
+},
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-77.171327255102,40.1968425714286]
+    },
+    "properties": {
+        "name":" Family Ford"
+    }
+},
+
+
+
+
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-76.26931,42.100351]
+    },
+    "properties": {
+        "name":" Eagle Motors"
+    }
+},
+
+
+
+
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-75.7035785742948,40.0083883]
+    },
+    "properties": {
+        "name":" Roberts Auto Mall"
+    }
+},
+
+
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-76.324308,40.063735]
+    },
+    "properties": {
+        "name":" Auto One"
+    }
+},
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-75.3467908,40.1057904]
+    },
+    "properties": {
+        "name":" Eger Suzuki"
+    }
+},
+
+
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-76.3084749,40.0416968]
+    },
+    "properties": {
+        "name":" Lancaster Mitsubishi"
+    }
+},
+
+
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-76.6164492014578,40.9646002673686]
+    },
+    "properties": {
+        "name":" Hawkins Chevrolet"
+    }
+},
+
+
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-76.1099441,40.0953481]
+    },
+    "properties": {
+        "name":" John N. Sauder Auto Co"
+    }
+},
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-75.7166765671554,41.3648491180379]
+    },
+    "properties": {
+        "name":" Ertley Chrysler Jeep LLC"
+    }
+},
+
+
+
+
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-76.8719664765101,40.2557233557047]
+    },
+    "properties": {
+        "name":" Sutliff's Used Car Outlet"
+    }
+},
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-75.7103579350244,40.8226968330846]
+    },
+    "properties": {
+        "name":" Lehighton Chrysler, Inc"
+    }
+},
+
+
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-77.4470517250679,41.1328226794023]
+    },
+    "properties": {
+        "name":" Macintyre Chevy Buick"
+    }
+},
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-75.4556915555556,40.5798102777778]
+    },
+    "properties": {
+        "name":" Outten Used Car Center, Inc"
+    }
+},
+
+
+
+
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-75.1258627,40.0988193]
+    },
+    "properties": {
+        "name":" Brandow Fairway Chrysler Jeep"
+    }
+},
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-78.4070217,40.510908]
+    },
+    "properties": {
+        "name":" Team Automotive, Inc"
+    }
+},
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-78.0179893206091,40.48032565]
+    },
+    "properties": {
+        "name":" Team Chevrolet Buick Cadillac"
+    }
+},
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-78.900293,40.3107882]
+    },
+    "properties": {
+        "name":" Team Chevrolet, Inc"
+    }
+},
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-76.2659643333333,40.0373606666667]
+    },
+    "properties": {
+        "name":" Keim Plus 2"
+    }
+},
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-76.901646,40.239252]
+    },
+    "properties": {
+        "name":" Highland Motors Sales"
+    }
+},
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-75.9864754,39.7720567]
+    },
+    "properties": {
+        "name":" Jeff D'Ambrosio Chevy"
+    }
+},
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-75.9864754,39.7720567]
+    },
+    "properties": {
+        "name":" Country Chrysler"
+    }
+},
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-77.8711609,40.7871633]
+    },
+    "properties": {
+        "name":" Rider Auto, Inc."
+    }
+},
+
+
+
+
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-75.2411543,40.8712147]
+    },
+    "properties": {
+        "name":" Brown Daub Super Center"
+    }
+},
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-80.1276652910183,41.8877417468477]
+    },
+    "properties": {
+        "name":" Walker Bros Buick Chevrolet"
+    }
+},
+
+
+
+
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-75.3988266,40.6230638]
+    },
+    "properties": {
+        "name":" Straub Chrysler Jeep"
+    }
+},
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-76.686887500303,39.9291567205705]
+    },
+    "properties": {
+        "name":" Wright Bros Lincoln Mercury"
+    }
+},
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-79.1523057575758,40.6242382121212]
+    },
+    "properties": {
+        "name":" Delaney Chevrolet, Inc"
+    }
+},
+
+
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-80.2125335733595,40.18790545]
+    },
+    "properties": {
+        "name":" John Sisson Motors"
+    }
+},
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-77.5661839795918,40.5910806938776]
+    },
+    "properties": {
+        "name":" Lake Chevrolet Olds, Inc"
+    }
+},
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-80.022077,41.9874851]
+    },
+    "properties": {
+        "name":" Resale Center"
+    }
+},
+
+
+
+
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-75.48226950008,40.5698060138781]
+    },
+    "properties": {
+        "name":" Keystone Dodge"
+    }
+},
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-76.446221,40.3387]
+    },
+    "properties": {
+        "name":" Chapman Ford Lincoln Mercury"
+    }
+},
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-77.6334112115726,39.9327729881868]
+    },
+    "properties": {
+        "name":" Crest Ford"
+    }
+},
+
+
+
+
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-77.1765418,40.2136104]
+    },
+    "properties": {
+        "name":" Bob Ruth S Automart"
+    }
+},
+
+
+
+
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-75.9162801666667,42.1023916666667]
+    },
+    "properties": {
+        "name":" Botnick Chevrolet"
+    }
+},
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-80.2183235305293,40.5193636332016]
+    },
+    "properties": {
+        "name":" Andretti Airport Toyota"
+    }
+},
+
+
+
+
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-76.6807302,39.979669]
+    },
+    "properties": {
+        "name":" Jack Giambalvo Motor Co"
+    }
+},
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-76.0064954,40.3191317]
+    },
+    "properties": {
+        "name":" Savage Auto Group"
+    }
+},
+
+
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-76.8350629,39.0971776]
+    },
+    "properties": {
+        "name":" Ourisman Auto Of Laurel"
+    }
+},
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-75.6376202041757,41.47077391338]
+    },
+    "properties": {
+        "name":" Dickson City Hyundai"
+    }
+},
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-77.4637311778022,41.1303801889236]
+    },
+    "properties": {
+        "name":" Bob Mccormick's Eagle Ford"
+    }
+},
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-77.6862735,39.60665025]
+    },
+    "properties": {
+        "name":" Hamilton Nissan, Inc."
+    }
+},
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-80.7356904505751,41.0246233348889]
+    },
+    "properties": {
+        "name":" Mountain Used Car Outlet"
+    }
+},
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-81.57397690625,41.06379890625]
+    },
+    "properties": {
+        "name":" Burt Greenwald Chevrolet"
+    }
+},
+
+
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-80.7405922752919,41.1009376919914]
+    },
+    "properties": {
+        "name":" Greenwood Chevrolet"
+    }
+},
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-83.6304474,41.6773011]
+    },
+    "properties": {
+        "name":" Taylor Kia"
+    }
+},
+
+
+
+
+
+
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-81.5735465797552,41.513484]
+    },
+    "properties": {
+        "name":" Motorcars Toyota"
+    }
+},
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-81.7591919518072,41.418396253012]
+    },
+    "properties": {
+        "name":" Andy Sims Used Cars"
+    }
+},
+
+
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-76.5387513251089,39.3477697069808]
+    },
+    "properties": {
+        "name":" Koons Used Car Outlet"
+    }
+},
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-81.5280372,41.4085544]
+    },
+    "properties": {
+        "name":" Jay Pontiac, Inc"
+    }
+},
+
+
+
+
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-75.5258028974995,40.2321984692499]
+    },
+    "properties": {
+        "name":" Limerick Car Smart"
+    }
+},
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-75.3551291,39.9131994]
+    },
+    "properties": {
+        "name":" Millers, Inc DBA Miller Dodge"
+    }
+},
+
+
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-76.9414137609972,39.21118955]
+    },
+    "properties": {
+        "name":" Win Kelly Chevrolet"
+    }
+},
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-78.5343647888654,40.0482888384685]
+    },
+    "properties": {
+        "name":" Bedford Ford"
+    }
+},
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-78.7488355517241,41.1226208275862]
+    },
+    "properties": {
+        "name":" Stoltz Credit Connection"
+    }
+},
+
+
+
+
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-75.488195,40.041689]
+    },
+    "properties": {
+        "name":" Matthews Paoli Ford"
+    }
+},
+
+
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-81.4493043219527,41.1016489252538]
+    },
+    "properties": {
+        "name":" Serpentini Chevrolet Tallmadge"
+    }
+},
+
+
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-76.8173691903878,39.1872954]
+    },
+    "properties": {
+        "name":" Apple Ford"
+    }
+},
+
+
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-82.07539455,41.3779019]
+    },
+    "properties": {
+        "name":" Arch Abraham Nissan"
+    }
+},
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-83.424909,41.175687]
+    },
+    "properties": {
+        "name":" Graff Auto Mall, Inc"
+    }
+},
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-84.0404527433246,41.0317713936602]
+    },
+    "properties": {
+        "name":" Graff Chevrolet Ottawa, Inc"
+    }
+},
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-75.2439917763175,40.8745688139084]
+    },
+    "properties": {
+        "name":" Pen Argyl Motors, Inc"
+    }
+},
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-75.3381302,40.6868765]
+    },
+    "properties": {
+        "name":" Brown Daub Preowned Outlet"
+    }
+},
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-75.202218,40.6945704]
+    },
+    "properties": {
+        "name":" Brown Daub Kia"
+    }
+},
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-82.271421,39.58515]
+    },
+    "properties": {
+        "name":" Serpentini Chevy Buick"
+    }
+},
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-76.3523662537313,39.5283589402985]
+    },
+    "properties": {
+        "name":" Scott Pontiac, Inc"
+    }
+},
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-80.722041,40.095163]
+    },
+    "properties": {
+        "name":" McKitrick Harms Pontiac GMC"
+    }
+},
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-80.7289908252804,40.3943455664105]
+    },
+    "properties": {
+        "name":" McKitrick Harms Pontiac GMC Tr"
+    }
+},
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-76.5068514968872,39.28594985]
+    },
+    "properties": {
+        "name":" Thompson Lincoln Mercury"
+    }
+},
+
+
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-76.5247184449529,39.2962292]
+    },
+    "properties": {
+        "name":" Thompson Chrysler Dodge"
+    }
+},
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-76.5044885250149,39.2798099]
+    },
+    "properties": {
+        "name":" Thompson Hyundai"
+    }
+},
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-83.3661857975573,42.283049789841]
+    },
+    "properties": {
+        "name":" Mark Chevrolet"
+    }
+},
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-81.5226508571429,39.2681518571429]
+    },
+    "properties": {
+        "name":" Astorg Ford Lincoln Mercury"
+    }
+},
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-81.527963,41.089913]
+    },
+    "properties": {
+        "name":" Van Devere, Inc"
+    }
+},
+
+
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-78.375421,40.51663]
+    },
+    "properties": {
+        "name":" Dean Patterson Chevrolet"
+    }
+}
+
+
+
+]
+}
