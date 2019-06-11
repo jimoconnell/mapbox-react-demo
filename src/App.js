@@ -1,3 +1,4 @@
+// 11 June 13:24
 import React, { useState, useEffect } from "react";
 import ReactMapGL, { Marker, Popup } from "react-map-gl";
 import * as parkDate from "./data/skateboard-parks.json";
@@ -8,7 +9,7 @@ export default function App() {
     longitude: -76.948530,
     width: "100vw",
     height: "100vh",
-    zoom: 10
+    zoom: 7
   });
   const [selectedPark, setSelectedPark] = useState(null);
 
